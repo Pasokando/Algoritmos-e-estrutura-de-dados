@@ -25,6 +25,7 @@ public class AtividadeAv1 {
                     break;
                 case 0:
                     System.out.println("Finalizando..");
+                    break;
                 default:
                     System.out.println("Comando Invalido!");
                     break;
